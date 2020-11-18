@@ -1,13 +1,14 @@
-.type S
+.type B
+.type DATE
 
-.decl input( v0: S,v1: S,v2: S)
-.input input
+.decl input_a( v0: B,v1: DATE,v2: DATE)
+.input input_a
 
-.decl c0(v0: S)
+.decl c0(v0: DATE)
 .input c0
 
-.decl c1(v0: S)
+.decl c1(v0: DATE)
 .input c1
 
-.decl output(v0: S)
-.output output
+.decl output_a(v0: B)
+.output output_a

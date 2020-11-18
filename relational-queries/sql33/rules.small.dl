@@ -1,10 +1,12 @@
-.type S
+.type ID
+.type NAME
+.type NUM
 
-.decl input( v0: S,v1: S,v2: S,v3: S)
-.input input
+.decl input_a( v0: ID,v1: ID,v2: NAME,v3: NUM)
+.input input_a
 
-.decl lt(v0: S, v1: S)
+.decl lt(v0: NUM, v1: NUM)
 .input lt
 
-.decl output(v0: S,v1: S,v2: S,v3: S)
-.output output
+.decl output_a(v0: ID,v1: NAME,v2: NUM,v3: NUM)
+.output output_a

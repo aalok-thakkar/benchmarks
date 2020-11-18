@@ -6,5 +6,5 @@
 .decl hightemp(v0: S)
 .input hightemp
 
-.decl output(v0: S)
-.output output
+.decl output_a(v0: S)
+.output output_a

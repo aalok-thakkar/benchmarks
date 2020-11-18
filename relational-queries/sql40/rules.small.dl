@@ -6,5 +6,5 @@
 .decl lt(v0: S, v1: S)
 .input lt
 
-.decl output(v0: S)
-.output output
+.decl output_a(v0: S)
+.output output_a

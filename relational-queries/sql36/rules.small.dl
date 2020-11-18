@@ -1,13 +1,15 @@
-.type S
+.type I
+.type R
+.type D
 
-.decl input( v0: S,v1: S,v2: S)
-.input input
+.decl input_a( v0: I,v1: R,v2: D)
+.input input_a
 
-.decl c0(v0: S)
+.decl c0(v0: R, v1: D)
 .input c0
 
-.decl c1(v0:S, v1:S)
+.decl c1(v0:D, v1:D)
 .input c1
 
-.decl output(v0: S,v1: S,v2: S)
-.output output
+.decl output_a(v0: I,v1: R,v2: D)
+.output output_a

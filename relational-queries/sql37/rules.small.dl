@@ -1,7 +1,9 @@
-.type B, S, E
+.type B
+.type S
+.type E
 
-.decl input( v0: B,v1: S,v2: E)
-.input input
+.decl input_a( v0: B,v1: S,v2: E)
+.input input_a
 
 .decl start(v0 :S, v1: E, v3: S, v4: E)
 .input start
@@ -9,5 +11,5 @@
 .decl end(v0 :S, v1: E, v3: S, v4: E)
 .input end
 
-.decl output(v0: B,v1: S,v2: E,v3: B,v4: S,v5: E)
-.output output
+.decl output_a(v0: B,v1: S,v2: E,v3: B,v4: S,v5: E)
+.output output_a
