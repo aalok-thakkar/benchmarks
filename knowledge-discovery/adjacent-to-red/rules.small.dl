@@ -1,4 +1,4 @@
-.type E
+.type V
 .type C
 
 .decl edge(v0: V, v1: V)
