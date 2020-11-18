@@ -1,0 +1,4 @@
+#modeb(2, extends(var(S), var(S)), (positive)).
+#modeb(2, hasMethod(var(S), var(S)), (positive)).
+#modeh(Overrides(var(S), var(S), var(S))).
+#maxv(7).
