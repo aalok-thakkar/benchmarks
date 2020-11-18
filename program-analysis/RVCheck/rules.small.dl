@@ -10,14 +10,5 @@
 .decl opSucc(v0: L, v1: L)
 .input opSucc
 
-.decl inv1(v0: X, v1: L)
-.output inv1
-.decl inv2(v0: L)
-.output inv2
-.decl inv3(v0: X, v1: L)
-.output inv3
-.decl inv4(v0: L)
-.output inv4
-
 .decl Correct(v0: L)
 .output Correct

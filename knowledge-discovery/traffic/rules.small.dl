@@ -7,8 +7,5 @@
 .decl Intersect(v0: V, v1: V)
 .input Intersect
 
-
-.decl inv(v0: V, v1: V)
-.output inv
 .decl Crashes(v0: V)
 .output Crashes
