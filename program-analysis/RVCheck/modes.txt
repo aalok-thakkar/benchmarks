@@ -1,6 +1,6 @@
-#modeb(2, Certificate(var(X), var(L)), (positive)).
-#modeb(2, Check(var(X), var(L)), (positive)).
-#modeb(2, Verify(var(X), var(L)), (positive)).
-#modeb(2, opSucc(var(L), var(L)), (positive)).
+#modeb(1, Certificate(var(X), var(L)), (positive)).
+#modeb(1, Check(var(X), var(L)), (positive)).
+#modeb(1, Verify(var(X), var(L)), (positive)).
+#modeb(1, opSucc(var(L), var(L)), (positive)).
 #modeh(Correct(var(L))).
-#maxv(7).
+#maxv(5).

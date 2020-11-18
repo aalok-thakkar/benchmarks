@@ -1,5 +1,5 @@
-#modeb(2, Mutable(var(V)), (positive)).
-#modeb(2, hasDefaultArgs(var(F)), (positive)).
-#modeb(2, params(var(F), var(I), var(V)), (positive)).
+#modeb(1), Mutable(var(V)), (positive)).
+#modeb(1), hasDefaultArgs(var(F)), (positive)).
+#modeb(1), params(var(F), var(I), var(V)), (positive)).
 #modeh(PyFuncDefaultMutable(var(F))).
-#maxv(7).
+#maxv(3).
