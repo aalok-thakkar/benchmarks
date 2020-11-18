@@ -1,9 +1,6 @@
 .type T
 .type P
 
-.decl Rule(v0: number)
-.input Rule
-
 .decl not_nausea(v0: P)
 .input not_nausea
 .decl not_lumbar_pain(v0: P)
