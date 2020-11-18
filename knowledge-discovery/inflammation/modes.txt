@@ -1,0 +1,15 @@
+#modeb(1, Rule(var(number)), (positive)).
+#modeb(1, not_nausea(var(P)), (positive)).
+#modeb(1, not_lumbar_pain(var(P)), (positive)).
+#modeb(1, urine_pushing(var(P)), (positive)).
+#modeb(1, gte38(var(T)), (positive)).
+#modeb(1, not_micturition_pain(var(P)), (positive)).
+#modeb(1, not_burning_urethra(var(P)), (positive)).
+#modeb(1, micturition_pain(var(P)), (positive)).
+#modeb(1, lumbar_pain(var(P)), (positive)).
+#modeb(1, nausea(var(P)), (positive)).
+#modeb(1, not_urine_pushing(var(P)), (positive)).
+#modeb(1, burning_urethra(var(P)), (positive)).
+#modeb(1, temparature(var(P),var(T)), (positive)).
+#modeh(inflamation(var(P))).
+#maxv(1).

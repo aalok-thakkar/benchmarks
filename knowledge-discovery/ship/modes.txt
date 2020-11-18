@@ -1,0 +1,6 @@
+#modeb(1, Rule(var(number)), (positive)).
+#modeb(1, CustomerCity(var(V),var(V)), (positive)).
+#modeb(1, HasOrdered(var(V),var(V)), (positive)).
+#modeb(1, ProductName(var(V),var(V)), (positive)).
+#modeh(ShipTo(var(V),var(V))).
+#maxv(3).

@@ -1,0 +1,4 @@
+#modeb(2, color(var(V),var(C)), (positive)).
+#modeb(1, edge(var(V),var(V)), (positive)).
+#modeh(target(var(V))).
+#maxv(3).

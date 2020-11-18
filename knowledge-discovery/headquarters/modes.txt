@@ -1,0 +1,4 @@
+#modeb(1, IsBasedIn(var(B),var(C)), (positive)).
+#modeb(1, IsLocatedIn(var(C),var(S)), (positive)).
+#modeh(IsHeadquarteredIn(var(B),var(S))).
+#maxv(3).

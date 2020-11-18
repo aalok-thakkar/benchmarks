@@ -1,0 +1,3 @@
+#modeb(2, edge(var(V),var(V)), (positive)).
+#modeh(target(var(V),var(V))).
+#maxv(3).

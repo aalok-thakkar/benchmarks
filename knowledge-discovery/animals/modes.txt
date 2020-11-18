@@ -1,0 +1,15 @@
+#modeb(1, Rule(var(number)), (positive)).
+#modeb(1, hair(var(C)), (positive)).
+#modeb(1, scales(var(C)), (positive)).
+#modeb(1, has_gills(var(A)), (positive)).
+#modeb(1, has_eggs(var(A)), (positive)).
+#modeb(1, has_covering(var(A),var(C)), (positive)).
+#modeb(1, homeothermic(var(A)), (positive)).
+#modeb(1, feathers(var(C)), (positive)).
+#modeb(1, none(var(C)), (positive)).
+#modeb(1, has_milk(var(A)), (positive)).
+#modeh(mammal(var(A))).
+#modeh(fish(var(A))).
+#modeh(reptile(var(A))).
+#modeh(bird(var(A))).
+#maxv(1).

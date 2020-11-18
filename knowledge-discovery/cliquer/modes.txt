@@ -1,0 +1,3 @@
+#modeb(2, Edge(var(V),var(V)), (positive)).
+#modeh(Leg(var(V),var(V))).
+#maxv(3).

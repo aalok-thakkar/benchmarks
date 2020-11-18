@@ -1,0 +1,6 @@
+#modeb(2, GreenSignal(var(V)), (positive)).
+#modeb(2, HasTraffic(var(V)), (positive)).
+#modeb(1, Intersect(var(V),var(V)), (positive)).
+#modeh(inv(var(V),var(V))).
+#modeh(Crashes(var(V))).
+#maxv(2).
