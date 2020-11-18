@@ -1,4 +1,6 @@
-.type D, S, C
+.type D
+.type S
+.type C
 
 .decl assigned(d: D, s: S, c: C)
 .input assigned

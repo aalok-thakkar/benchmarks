@@ -1,4 +1,5 @@
-.type I, T
+.type I
+.type T
 
 .decl CastExpr(i: I, t1: T, t2: T)
 .input CastExpr

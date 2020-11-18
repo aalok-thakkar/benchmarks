@@ -1,4 +1,6 @@
-.type D, I, A
+.type D
+.type I
+.type A
 
 .decl Allergens(i: I, a: A)
 .input Allergens

@@ -1,4 +1,6 @@
-.type B, C, S
+.type B
+.type C
+.type S
 
 .decl IsBasedIn(b: B, c: C)
 .input IsBasedIn

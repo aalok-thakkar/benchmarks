@@ -1,4 +1,5 @@
-.type C, T
+.type C
+.type T
 
 .decl agent_at(c: C, t: T)
 .input agent_at

@@ -1,4 +1,6 @@
-.type T, I, L
+.type T
+.type I
+.type L
 
 .decl pointerType(t: T)
 .input pointerType

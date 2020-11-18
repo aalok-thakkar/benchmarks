@@ -1,4 +1,7 @@
-.type F, V, N, L
+.type F
+.type V
+.type N
+.type L
 
 .decl fun(f: F, l: L)
 .input fun

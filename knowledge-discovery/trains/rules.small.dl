@@ -1,4 +1,6 @@
-.type C, S, T
+.type C
+.type S
+.type T
 
 .decl car(c: C)
 .input car

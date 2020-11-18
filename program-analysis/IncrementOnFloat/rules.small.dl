@@ -1,4 +1,10 @@
-.type I, N, C, U, V, S, T
+.type I
+.type N
+.type C
+.type U
+.type V
+.type S
+.type T
 
 .decl forStmt(i: I, n: N, c: C, u: U)
 .input forStmt

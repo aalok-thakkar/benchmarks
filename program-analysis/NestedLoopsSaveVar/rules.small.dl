@@ -1,4 +1,5 @@
-.type S, I
+.type S
+.type I
 
 .decl ForStmt(s: S, i: I)
 .input ForStmt

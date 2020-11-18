@@ -1,4 +1,5 @@
-.type V, C
+.type V
+.type C
 
 .decl color(v: V, c: C)
 .input color

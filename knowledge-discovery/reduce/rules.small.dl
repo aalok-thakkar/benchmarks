@@ -1,4 +1,6 @@
-.type B, D, S
+.type B
+.type D
+.type S
 
 .decl reduces(d: D, s: S)
 .input reduces

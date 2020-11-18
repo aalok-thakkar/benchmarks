@@ -1,4 +1,5 @@
-.type ID, L
+.type ID
+.type L
 
 .decl Block(i1: ID, i2: ID)
 .input Block
