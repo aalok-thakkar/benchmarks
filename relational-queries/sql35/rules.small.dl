@@ -9,8 +9,8 @@
 .decl c0(v0: NUM)
 .input c0
 
-.decl max(v0: ID2, v1: NUM)
-.input max
+.decl maximum(v0: ID2, v1: NUM)
+.input maximum
 
 .decl output_a(v0: ID1,v1: ID2,v2: NUM,v3: DATE)
 .output output_a

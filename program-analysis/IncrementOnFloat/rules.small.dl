@@ -10,8 +10,8 @@
 .input forStmt
 .decl initExpr(n: N, v: V)
 .input initExpr
-.decl var(v: V, s: S, t: T)
-.input var
+.decl var1(v: V, s: S, t: T)
+.input var1
 .decl floatTypes(t: T)
 .input floatTypes
 
