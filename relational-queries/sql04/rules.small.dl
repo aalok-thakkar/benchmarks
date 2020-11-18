@@ -1,4 +1,7 @@
-.type ID, NAME, NUM, DATE
+.type ID
+.type NAME
+.type NUM
+.type DATE
 
 .decl neg_input( v0: ID,v1: NUM)
 .input neg_input

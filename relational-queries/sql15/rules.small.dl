@@ -1,4 +1,5 @@
-.type ID, C
+.type ID
+.type C
 
 .decl input_a( v0: ID,v1: C)
 .input input_a

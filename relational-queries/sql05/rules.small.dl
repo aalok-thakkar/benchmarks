@@ -1,4 +1,7 @@
-.type X, Y, NUM, A
+.type X
+.type Y
+.type NUM
+.type A
 
 .decl input_a( v0: X,v1: Y,v2: NUM,v3: A)
 .input input_a

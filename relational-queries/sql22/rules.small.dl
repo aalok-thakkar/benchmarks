@@ -1,4 +1,9 @@
-.type S, F, FID, SID, Y, C
+.type S
+.type F
+.type FID
+.type SID
+.type Y
+.type C
 
 .decl input_a( v0: C,v1: FID)
 .input input_a

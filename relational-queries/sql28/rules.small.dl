@@ -1,4 +1,5 @@
-.type N, S
+.type N
+.type S
 
 .decl input_a( v0: N,v1: S)
 .input input_a

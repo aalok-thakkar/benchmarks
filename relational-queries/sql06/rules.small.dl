@@ -1,4 +1,6 @@
-.type S, A, NUM
+.type S
+.type A
+.type NUM
 
 .decl tablea( v0: S,v1: A)
 .input tablea

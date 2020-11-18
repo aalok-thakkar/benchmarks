@@ -1,4 +1,6 @@
-.type ID, NUM, DATE
+.type ID
+.type NUM
+.type DATE
 
 .decl input_a( v0: ID,v1: NUM,v2: DATE)
 .input input_a
