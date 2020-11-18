@@ -1,4 +1,4 @@
-#modeb(3, ReachingDefExit(var(ID),var(S),var(V)), (positive)).
-#modeb(3, Flow(var(ID),var(ID)), (positive)).
+#modeb(2, ReachingDefExit(var(ID),var(S),var(V)), (positive)).
+#modeb(2, Flow(var(ID),var(ID)), (positive)).
 #modeh(ReachingDefEntry(var(ID),var(ID))).
 #maxv(7).

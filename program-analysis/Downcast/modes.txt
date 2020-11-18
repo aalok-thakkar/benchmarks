@@ -1,8 +1,8 @@
-#modeb(3, HT(var(H), var(T)), (positive)).
-#modeb(3, McheckCastInst(var(M), var(V), var(T), var(V)), (positive)).
-#modeb(3, VH(var(V), var(H)), (positive)).
-#modeb(3, notSub(var(T), var(T)), (positive)).
-#modeb(3, reachableM(var(M)), (positive)).
+#modeb(2, HT(var(H), var(T)), (positive)).
+#modeb(2, McheckCastInst(var(M), var(V), var(T), var(V)), (positive)).
+#modeb(2, VH(var(V), var(H)), (positive)).
+#modeb(2, notSub(var(T), var(T)), (positive)).
+#modeb(2, reachableM(var(M)), (positive)).
 #modeh(badCast(var(V), var(T))).
 #modeh(ptsVT(var(V), var(T))).
 #modeh(reachableCast(var(T), var(V))).
