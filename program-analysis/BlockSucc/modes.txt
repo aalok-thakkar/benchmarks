@@ -1,0 +1,5 @@
+#modeb(3, Lbl(var(ID), var(L)), (positive)).
+#modeb(3, Block(var(ID), var(ID)), (positive)).
+#modeb(3, JumpKind(var(ID)), (positive)).
+#modeh(BlockSucc(var(ID), var(ID))).
+#maxv(7).

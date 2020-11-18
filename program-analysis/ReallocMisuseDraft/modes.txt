@@ -1,0 +1,5 @@
+#modeb(3, ReallocExp(var(FID)), (positive)).
+#modeb(3, Assign(var(S),var(FID)), (positive)).
+#modeb(3, Params(var(FID),var(I),var(S)), (positive)).
+#modeh(ReallocMisuse(var(FID),var(I),var(S))).
+#maxv(7).

@@ -1,0 +1,5 @@
+#modeb(3, IntVar(var(S), var(I)), (positive)).
+#modeb(3, Store(var(S), var(S), var(S)), (positive)).
+#modeb(3, VarPointsTo(var(S), var(H)), (positive)).
+#modeh(IntField(var(H), var(S), var(I))).
+#maxv(7).

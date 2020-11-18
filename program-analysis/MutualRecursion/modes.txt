@@ -1,0 +1,3 @@
+#modeb(3, CallGraph(var(F), var(F)), (positive)).
+#modeh(MutualRecursion(var(F), var(F))).
+#maxv(7).
