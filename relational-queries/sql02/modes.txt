@@ -1,3 +1,3 @@
 #modeb(2, input_a(var(ID),var(NAME),var(NUM),var(ID)), (positive)).
 #modeh(output_a(var(ID),var(NAME))).
-#maxv(6).
+#maxv(7).
