@@ -1,5 +1,5 @@
-#modeb(1, params(var(I), var(T)), (positive)).
-#modeb(1, pointerType(var(T)), (positive)).
-#modeb(1, sizeofCalls(var(I), var(L)), (positive)).
-#modeh(BlockSucc(var(ID))).
-#maxv(3).
+#modeb(1, params(var(i), var(t)), (positive)).
+#modeb(1, pointertype(var(t)), (positive)).
+#modeb(1, sizeofcalls(var(i), var(l)), (positive)).
+#modeh(callsizeofonpointer(var(i), var(l))).
+#maxv(5).
