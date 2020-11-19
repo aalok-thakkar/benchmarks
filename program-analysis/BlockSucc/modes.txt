@@ -2,4 +2,4 @@
 #modeb(2, Block(var(ID), var(ID)), (positive)).
 #modeb(1, JumpKind(var(ID)), (positive)).
 #modeh(BlockSucc(var(ID), var(ID))).
-#maxv(5).
+#maxv(9).

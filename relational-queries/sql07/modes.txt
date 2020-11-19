@@ -2,4 +2,4 @@
 #modeb(1, neq(var(I),var(I)), (positive)).
 #modeb(1, c0(var(S)), (positive)).
 #modeh(output_a(var(N))).
-#maxv(4).
+#maxv(9).

@@ -2,4 +2,4 @@
 #modeb(1, Mutable(var(t)), (positive)).
 #modeb(1, CastExpr(var(i), var(t), var(t)), (positive)).
 #modeh(CastImmutableToMutable(var(i))).
-#maxv(3).
+#maxv(5).

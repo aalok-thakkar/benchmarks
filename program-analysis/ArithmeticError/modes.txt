@@ -2,4 +2,4 @@
 #modeb(1, IntVar(var(v), var(i)), (positive)).
 #modeb(1, DivExp(var(id), var(v), var(v)), (positive)).
 #modeh(ArithmeticError(var(id))).
-#maxv(4).
+#maxv(6).

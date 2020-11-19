@@ -2,4 +2,4 @@
 #modeb(1, c0(var(NUM)), (positive)).
 #modeb(1, maximum(var(ID2),var(NUM)), (positive)).
 #modeh(output_a(var(ID1),var(ID2),var(NUM),var(DATE))).
-#maxv(4).
+#maxv(7).

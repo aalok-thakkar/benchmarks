@@ -3,4 +3,4 @@
 #modeb(1, initExpr(var(N), var(V)), (positive)).
 #modeb(1, var1(var(V), var(S), var(T)), (positive)).
 #modeh(IncrementOnFloat(var(I))).
-#maxv(7).
+#maxv(10).

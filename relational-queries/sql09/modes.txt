@@ -1,4 +1,4 @@
 #modeb(1, input_a(var(G),var(E)), (positive)).
 #modeb(1, input0(var(G),var(E),var(S)), (positive)).
 #modeh(output_a(var(G),var(G),var(E),var(S))).
-#maxv(4).
+#maxv(5).

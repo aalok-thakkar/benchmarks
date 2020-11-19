@@ -2,4 +2,4 @@
 #modeb(1, pps(var(S),var(A),var(NUM)), (positive)).
 #modeb(1, c0(var(NUM)), (positive)).
 #modeh(output_a(var(S),var(A),var(A),var(NUM))).
-#maxv(4).
+#maxv(6).
