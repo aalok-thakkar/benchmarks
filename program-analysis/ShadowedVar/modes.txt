@@ -1,4 +1,4 @@
-#modeb(1, DeclVar(var(BID),var(V)), (positive)).
+#modeb(2, DeclVar(var(BID),var(V)), (positive)).
 #modeb(1, Encloses(var(BID),var(BID)), (positive)).
 #modeh(ShadowedVar(var(BID),var(BID), var(V))).
 #maxv(3).

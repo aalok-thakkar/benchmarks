@@ -1,4 +1,3 @@
-#modeb(1, Rule(var(number)), (positive)).
 #modeb(1, hair(var(C)), (positive)).
 #modeb(1, scales(var(C)), (positive)).
 #modeb(1, has_gills(var(A)), (positive)).
@@ -12,4 +11,4 @@
 #modeh(fish(var(A))).
 #modeh(reptile(var(A))).
 #modeh(bird(var(A))).
-#maxv(1).
+#maxv(2).
