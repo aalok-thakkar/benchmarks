@@ -1,0 +1,8 @@
+#modeb(1, input_a(var(C),var(FID)), (positive)).
+#modeb(1, input0(var(SID),var(C)), (positive)).
+#modeb(1, input1(var(FID),var(F)), (positive)).
+#modeb(1, input2(var(SID),var(S),var(Y)), (positive)).
+#modeb(1, c0(var(Y)), (positive)).
+#modeb(1, c1(var(F)), (positive)).
+#modeh(output_a(var(S))).
+#maxv(6).

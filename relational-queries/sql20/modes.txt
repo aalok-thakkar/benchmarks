@@ -1,0 +1,3 @@
+#modeb(1, input_a(var(I),var(N),var(S)), (positive)).
+#modeh(output_a(var(I),var(N))).
+#maxv(3).

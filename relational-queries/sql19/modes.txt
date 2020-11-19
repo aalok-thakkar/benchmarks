@@ -1,0 +1,4 @@
+#modeb(2, input_a(var(ID),var(T),var(N),var(S),var(A)), (positive)).
+#modeb(1, neq(var(A),var(A)), (positive)).
+#modeh(output_a(var(ID),var(T),var(N),var(S),var(A))).
+#maxv(9).
