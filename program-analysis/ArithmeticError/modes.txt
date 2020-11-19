@@ -1,5 +1,5 @@
-#modeb(1, IsMaybeZero(var(I)), (positive)).
-#modeb(1, IntVar(var(V), var(I)), (positive)).
-#modeb(1, DivExp(var(ID), var(V), var(V)), (positive)).
-#modeh(ArithmeticError(var(ID))).
-#maxv(3).
+#modeb(1, ismaybezero(var(i)), (positive)).
+#modeb(1, intvar(var(v), var(i)), (positive)).
+#modeb(1, divexp(var(id), var(v), var(v)), (positive)).
+#modeh(arithmeticerror(var(id))).
+#maxv(4).

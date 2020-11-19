@@ -1,5 +1,5 @@
-#modeb(1, Immutable(var(T)), (positive)).
-#modeb(1, Mutable(var(T)), (positive)).
-#modeb(1, CastExpr(var(I, T, T)), (positive)).
-#modeh(CastImmutableToMutable(var(I))).
+#modeb(1, immutable(var(t)), (positive)).
+#modeb(1, mutable(var(t)), (positive)).
+#modeb(1, castexpr(var(i), var(t), var(t)), (positive)).
+#modeh(castimmutabletomutable(var(i))).
 #maxv(3).
