@@ -1,5 +1,5 @@
 #modeb(1, params(var(i), var(t)), (positive)).
-#modeb(1, pointertype(var(t)), (positive)).
-#modeb(1, sizeofcalls(var(i), var(l)), (positive)).
-#modeh(callsizeofonpointer(var(i), var(l))).
+#modeb(1, pointerType(var(t)), (positive)).
+#modeb(1, sizeofCalls(var(i), var(l)), (positive)).
+#modeh(CallSizeofOnPointer(var(i), var(l))).
 #maxv(5).

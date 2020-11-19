@@ -1,4 +1,4 @@
-#modeb(1, reachingdefexit(var(id),var(s),var(v)), (positive)).
-#modeb(1, flow(var(id),var(id)), (positive)).
-#modeh(reachingdefentry(var(id),var(s),var(v))).
+#modeb(1, ReachingDefExit(var(id),var(s),var(v)), (positive)).
+#modeb(1, Flow(var(id),var(id)), (positive)).
+#modeh(ReachingDefEntry(var(id),var(s),var(v))).
 #maxv(4).

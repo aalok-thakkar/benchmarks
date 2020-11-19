@@ -1,5 +1,5 @@
-#modeb(1, succ(var(S), var(S)), (positive)).
-#modeb(2, forstmt(var(S), var(N)), (positive)).
-#modeb(1, pred(var(S), var(S)), (positive)).
-#modeh(nestedloopssamevariable(var(S), var(S))).
+#modeb(1, Succ(var(S), var(S)), (positive)).
+#modeb(2, ForStmt(var(S), var(N)), (positive)).
+#modeb(1, Pred(var(S), var(S)), (positive)).
+#modeh(NestedLoopsSameVar(var(S), var(S))).
 #maxv(4).

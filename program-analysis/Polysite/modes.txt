@@ -1,7 +1,7 @@
-#modeb(2, cicm(var(c), var(i), var(m)), (positive)).
-#modeb(1, mneq(var(m), var(m)), (positive)).
-#modeb(1, virtim(var(i), var(m)), (positive)).
-#modeh(insvim(var(i), var(m))).
-#modeh(polysite(var(i))).
-#modeh(virti(var(i))).
+#modeb(2, CICM(var(c), var(i), var(m)), (positive)).
+#modeb(1, Mneq(var(m), var(m)), (positive)).
+#modeb(1, virtIM(var(i), var(m)), (positive)).
+#modeh(insvIM(var(i), var(m))).
+#modeh(polySite(var(i))).
+#modeh(virtI(var(i))).
 #maxv(5).
