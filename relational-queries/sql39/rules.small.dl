@@ -4,8 +4,8 @@
 .type D
 .type NUM
 
-.decl input_a( v0: I,v1: N,v2: U,v3: D)
-.input input_a
+.decl input( v0: I,v1: N,v2: U,v3: D)
+.input input
 
 .decl input0( v0: I,v1: NUM,v2: D)
 .input input0
@@ -16,5 +16,5 @@
 .decl c0(v0: D)
 .input c0
 
-.decl output_a(v0: I,v1: N,v2: U,v3: NUM,v4: NUM,v5: D)
-.output output_a
+.decl output(v0: I,v1: N,v2: U,v3: NUM,v4: NUM,v5: D)
+.output output
